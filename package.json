@@ -1,0 +1,19 @@
+{
+  "name": "learn-web-components",
+  "version": "1.0.0",
+  "description": "[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ReAlign/learn-web-components)",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd server && npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReAlign/learn-web-components.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReAlign/learn-web-components/issues"
+  },
+  "homepage": "https://github.com/ReAlign/learn-web-components#readme"
+}
